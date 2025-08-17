@@ -1,5 +1,5 @@
 ## MW2 Death Quotes for Headshot Darkness
-This is just a json file containing the quotes you see when you die in OG MW2 that will overwrite the custom death strings file for the mod Headshot Darkness. Be aware that this changes the all 3 custom fields, so there's not distinguishment between a bodyshot, headshot, or explosive death. All quotes can be shown for all types.
+This is just a json file containing the quotes you see when you die in OG MW2 that will overwrite the custom death strings file for the mod Headshot Darkness. Be aware that this changes all 3 custom fields, so there's no distinguishment between a bodyshot, headshot, or explosive death. All quotes can be shown for all types.
 
 # PLEASE NOTE
 This is just a hollowed out version of the mod path so you can drag and drop just like the actual mod. This means that this does not contain the actual mod
